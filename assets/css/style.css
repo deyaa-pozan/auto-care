@@ -8194,9 +8194,7 @@ only screen and (min-width: 1200px) and (max-width: 1499px) {
 only screen and (max-width: 767px) {
     .footer-link-wrapper {
         -webkit-box-pack: end;
-        -webkit-justify-content: flex-end;
         -ms-flex-pack: end;
-        justify-content: flex-end;
     }
 }
 
