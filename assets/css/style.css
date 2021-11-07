@@ -296,6 +296,10 @@ textarea:-ms-input-placeholder {
     overflow: visible;
 }
 
+.footer-widget-section p a:hover {
+    color: white !important;
+}
+
 
 /*--Section Spacing--*/
 
